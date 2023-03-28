@@ -1,0 +1,31 @@
+{
+	"projectName": "tgpm-docs",
+	"homepageName": "Overview",
+	"rootFolder": "src",
+	"distFolder": "docs",
+	"generateMD": false,
+	"generatePDF": false,
+	"generateCompleteMD": false,
+	"generateCompletePDF": false,
+	"generateWEB": true,
+	"webTheme": "//unpkg.com/docsify/lib/themes/vue.css",
+	"supportSearch": true,
+	"repoUrl": "",
+	"docsifyTemplate": "",
+	"webPort": "3000",
+	"plantumlVersion": "latest",
+	"includeBreadcrumbs": true,
+	"includeLinkToDiagram": false,
+	"diagramsOnTop": true,
+	"embedDiagram": true,
+	"excludeOtherFiles": false,
+	"generateLocalImages": true,
+	"plantumlServerUrl": "https://www.plantuml.com/plantuml",
+	"diagramFormat": "svg",
+	"charset": "UTF-8",
+	"hasRun": true,
+	"checksums": [
+		"ab0c952e8f834f741e745210e3f6bc4108c3e3249dd7d5b27666cd7e5c74c4b5",
+		"e3464004215889d54919182ab8de1c7577338f133ffb46970c110b9323073fb5"
+	]
+}
