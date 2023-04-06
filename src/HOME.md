@@ -1,5 +1,3 @@
-# Overview
-
 ## TL;DR
 
 Open source web application to view international political events.
