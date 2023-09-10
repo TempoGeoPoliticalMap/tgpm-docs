@@ -1,5 +1,3 @@
-# REST API Docs
-
 ## Overview
 
 Available at https://api.tgpm.world.

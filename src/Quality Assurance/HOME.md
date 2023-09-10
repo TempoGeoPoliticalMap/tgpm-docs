@@ -1,5 +1,3 @@
-# Quality Assurance
-
 ## Overview
 
 We don't have any test automation yet, but the plans are and you are welcome to contribute to:

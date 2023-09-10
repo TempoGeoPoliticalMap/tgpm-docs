@@ -1,5 +1,3 @@
-# Deployment
-
 ## Overview
 
 * There's one Production Environment

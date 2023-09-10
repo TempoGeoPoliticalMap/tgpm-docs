@@ -1,18 +1,189 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="850px" preserveAspectRatio="none" style="width:279px;height:850px;background:#FFFFFF;" version="1.1" viewBox="0 0 279 850" width="279px" zoomAndPan="magnify"><defs/><g><!--MD5=[3cd27de555154a2b517fceb55a568afe]
-cluster tgpmSystem--><g id="cluster_tgpmSystem"><rect height="428" rx="2.5" ry="2.5" style="stroke:#444444;stroke-width:1.0;fill:none;stroke-dasharray:7.0,7.0;" width="266" x="7" y="186"/><text fill="#444444" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="250" x="15" y="236.4453">TempoGeoPoliticalMap System</text><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="53" x="113.5" y="251.4219">[System]</text></g><!--MD5=[33573e971ff506c0f246109ca3fd77bd]
-entity spa--><g id="elem_spa"><rect fill="#438DD5" height="118.9297" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="213" x="33.5" y="270"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="79" x="100.5" y="293.5352">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="193" x="43.5" y="311.957">Single Page Application</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="84" x="98" y="326.9336">[React-Redux]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="138" y="343"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="181" x="47.5" y="359.4883">Web UI Application to view</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="108.5" y="375.9766">WikiData.</text></g><!--MD5=[2021705b656b270ae1616113380bc97f]
-entity webapp--><g id="elem_webapp"><rect fill="#438DD5" height="118.9297" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="190" x="45" y="479"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="79" x="100.5" y="502.5352">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="95" x="92.5" y="520.957">Middleware</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="82" x="99" y="535.9336">[Python-Flask]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="138" y="552"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="166" x="55" y="568.4883">REST API Wrapper to get</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="108.5" y="584.9766">WikiData.</text></g><!--MD5=[8fc3522a43f8c7199df5e09e5bb0188e]
-entity user--><g id="elem_user"><rect fill="#08427B" height="103.332" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="82" x="99" y="7"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="62" x="109" y="30.5352">«person»</text><image height="48" width="48" x="116" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="33.4883"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="37" x="121.5" y="96.957">User</text></g><!--MD5=[d1ed0d2940ccad314a24ccbc4df5340e]
-entity wikidata--><g id="elem_wikidata"><rect fill="#999999" height="154.2617" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="202" x="39" y="690"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="125" x="77.5" y="713.5352">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="134" x="73" y="731.957">WikiData System</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="138" y="748.8672"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="168" x="54" y="765.3555">It is a common source of</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="51" y="781.8438">open data that Wikimedia</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="49" y="798.332">projects, and anyone else,</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="156" x="60" y="814.8203">can use under the CC0</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153" x="63.5" y="831.3086">public domain license.</text></g><!--MD5=[e4455eac72cb7006bb9d9266b5bd7779]
-link spa to webapp--><g id="link_spa_webapp"><path d="M140,389.26 C140,414.17 140,443.37 140,469.23 " fill="none" id="spa-to-webapp" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="140,477.08,143,469.08,137,469.08,140,477.08" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="54" x="154.5" y="431.6016">Get Data</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="81" x="141" y="445.7344">[REST/HTTPS]</text></g><!--MD5=[f01566b2b60b280485eda08a2d99c8d8]
-link user to spa--><g id="link_user_spa"><path d="M140,110.41 C140,152.88 140,213.76 140,260.41 " fill="none" id="user-to-spa" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="140,268.33,143,260.33,137,260.33,140,268.33" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="62" x="141" y="152.6016">View Data</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="46" x="149" y="166.7344">[HTTPS]</text></g><!--MD5=[7fe72c51f7df8fea37970e1afca3612c]
-link webapp to wikidata--><g id="link_webapp_wikidata"><path d="M140,598.42 C140,623.5 140,653.25 140,680.66 " fill="none" id="webapp-to-wikidata" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="140,688.35,143,680.35,137,680.35,140,688.35" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="54" x="141" y="642.6016">Get Data</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="46" x="145" y="656.7344">[HTTPS]</text></g><!--MD5=[78b9e544b65c92f3b1403cb9e45c5685]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentStyleType="text/css"
+     height="870px" preserveAspectRatio="none" style="width:378px;height:870px;background:#FFFFFF;" version="1.1"
+     viewBox="0 0 378 870" width="378px" zoomAndPan="magnify">
+    <defs/>
+    <g><!--MD5=[3cd27de555154a2b517fceb55a568afe]
+cluster tgpmSystem-->
+        <g id="cluster_tgpmSystem">
+            <rect height="429.5" rx="2.5" ry="2.5"
+                  style="stroke:#444444;stroke-width:1.0;fill:none;stroke-dasharray:7.0,7.0;" width="266" x="7"
+                  y="205"/>
+            <text fill="#444444" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing"
+                  textLength="250" x="15" y="255.4453">TempoGeoPoliticalMap System
+            </text>
+            <text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing"
+                  textLength="53" x="113.5" y="270.4219">[System]
+            </text>
+        </g><!--MD5=[33573e971ff506c0f246109ca3fd77bd]
+entity spa-->
+        <g id="elem_spa">
+            <rect fill="#438DD5" height="118.9297" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;"
+                  width="213" x="41.5" y="289"/>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="79" x="108.5" y="312.5352">«container»
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing"
+                  textLength="193" x="51.5" y="330.957">Single Page Application
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing"
+                  textLength="84" x="106" y="345.9336">[React-Redux]
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="146"
+                  y="362"> 
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="181"
+                  x="55.5" y="378.4883">Web UI Application to view
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63"
+                  x="116.5" y="394.9766">WikiData.
+            </text>
+        </g><!--MD5=[2021705b656b270ae1616113380bc97f]
+entity webapp-->
+        <g id="elem_webapp">
+            <rect fill="#438DD5" height="118.9297" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;"
+                  width="190" x="62" y="499.5"/>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="79" x="117.5" y="523.0352">«container»
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing"
+                  textLength="95" x="109.5" y="541.457">Middleware
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing"
+                  textLength="82" x="116" y="556.4336">[Python-Flask]
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="155"
+                  y="572.5"> 
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="166" x="72"
+                  y="588.9883">REST API Wrapper to get
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63"
+                  x="125.5" y="605.4766">WikiData.
+            </text>
+        </g><!--MD5=[8fc3522a43f8c7199df5e09e5bb0188e]
+entity user-->
+        <g id="elem_user">
+            <rect fill="#08427B" height="122.1758" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="82"
+                  x="107" y="7"/>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="62" x="117" y="30.5352">«person»
+            </text>
+            <image height="48" width="48" x="124"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII="
+                   y="33.4883"/>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing"
+                  textLength="37" x="129.5" y="96.957">User
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing"
+                  textLength="5" x="145.5" y="115.8008"> 
+            </text>
+        </g><!--MD5=[6be96040792a0cd556c535244c12ec70]
+entity api_client-->
+        <g id="elem_api_client">
+            <rect fill="#08427B" height="122.1758" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="82"
+                  x="290" y="287.5"/>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="62" x="300" y="311.0352">«person»
+            </text>
+            <image height="48" width="48" x="307"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII="
+                   y="313.9883"/>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing"
+                  textLength="27" x="317.5" y="377.457">API
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing"
+                  textLength="47" x="307.5" y="396.3008">Client
+            </text>
+        </g><!--MD5=[d1ed0d2940ccad314a24ccbc4df5340e]
+entity wikidata-->
+        <g id="elem_wikidata">
+            <rect fill="#999999" height="154.2617" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;"
+                  width="202" x="56" y="710.5"/>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="125" x="94.5" y="734.0352">«external_system»
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing"
+                  textLength="134" x="90" y="752.457">WikiData System
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="155"
+                  y="769.3672"> 
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="168" x="71"
+                  y="785.8555">It is a common source of
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="68"
+                  y="802.3438">open data that Wikimedia
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="66"
+                  y="818.832">projects, and anyone else,
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="156" x="77"
+                  y="835.3203">can use under the CC0
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153"
+                  x="80.5" y="851.8086">public domain license.
+            </text>
+        </g><!--MD5=[e4455eac72cb7006bb9d9266b5bd7779]
+link spa to webapp-->
+        <g id="link_spa_webapp">
+            <path d="M150.54,408.41 C151.64,433.83 152.93,463.72 154.07,490.07 " fill="none" id="spa-to-webapp"
+                  style="stroke:#666666;stroke-width:1.0;"/>
+            <polygon fill="#666666" points="154.4,497.72,157.0541,489.5987,151.0596,489.856,154.4,497.72"
+                     style="stroke:#666666;stroke-width:1.0;"/>
+            <text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing"
+                  textLength="54" x="168.5" y="452.1016">Get Data
+            </text>
+            <text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing"
+                  textLength="81" x="155" y="466.2344">[REST/HTTPS]
+            </text>
+        </g><!--MD5=[f01566b2b60b280485eda08a2d99c8d8]
+link user to spa-->
+        <g id="link_user_spa">
+            <path d="M148,129.43 C148,173.58 148,233.5 148,279.35 " fill="none" id="user-to-spa"
+                  style="stroke:#666666;stroke-width:1.0;"/>
+            <polygon fill="#666666" points="148,287.11,151,279.11,145,279.11,148,287.11"
+                     style="stroke:#666666;stroke-width:1.0;"/>
+            <text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing"
+                  textLength="62" x="149" y="171.6016">View Data
+            </text>
+            <text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing"
+                  textLength="46" x="157" y="185.7344">[HTTPS]
+            </text>
+        </g><!--MD5=[3f512d06ee3e8ac154ec0cee2653f1fb]
+link api_client to webapp-->
+        <g id="link_api_client_webapp">
+            <path d="M290.62,409.82 C276.79,429.37 260.81,450.81 245,469.5 C238.57,477.1 231.62,484.82 224.53,492.38 "
+                  fill="none" id="api_client-to-webapp" style="stroke:#666666;stroke-width:1.0;"/>
+            <polygon fill="#666666" points="219.04,498.16,226.7264,494.4292,222.3781,490.2951,219.04,498.16"
+                     style="stroke:#666666;stroke-width:1.0;"/>
+            <text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing"
+                  textLength="54" x="281.5" y="452.1016">Get Data
+            </text>
+            <text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing"
+                  textLength="81" x="268" y="466.2344">[REST/HTTPS]
+            </text>
+        </g><!--MD5=[7fe72c51f7df8fea37970e1afca3612c]
+link webapp to wikidata-->
+        <g id="link_webapp_wikidata">
+            <path d="M157,618.92 C157,644 157,673.75 157,701.16 " fill="none" id="webapp-to-wikidata"
+                  style="stroke:#666666;stroke-width:1.0;"/>
+            <polygon fill="#666666" points="157,708.85,160,700.85,154,700.85,157,708.85"
+                     style="stroke:#666666;stroke-width:1.0;"/>
+            <text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing"
+                  textLength="54" x="158" y="663.1016">Get Data
+            </text>
+            <text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing"
+                  textLength="46" x="162" y="677.2344">[HTTPS]
+            </text>
+        </g><!--MD5=[cc515b83efbe5bfed240bd473534abff]
 @startuml C4_Elements
 !include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
 
 
+Person(user, "User\n", "")
+Person(api_client, "API \nClient", "")
 
-Person(user, "User", "")
 System_Boundary(tgpmSystem, "TempoGeoPoliticalMap System"){
     Container(spa, "Single Page Application", "React-Redux", "Web UI Application to view WikiData.")
     Container(webapp, "Middleware", "Python-Flask", "REST API Wrapper to get WikiData.")
@@ -21,10 +192,17 @@ System_Boundary(tgpmSystem, "TempoGeoPoliticalMap System"){
 System_Ext(wikidata, "WikiData System", "It is a common source of open data that Wikimedia projects, and anyone else, can use under the CC0 public domain license.")
 
 Rel(user, spa, "View Data", "HTTPS")
+Rel(api_client, webapp, "Get Data", "REST/HTTPS")
 Rel(webapp, wikidata, "Get Data", "HTTPS")
 @enduml
 
 @startuml C4_Elements
+
+
+
+
+
+
 
 
 
@@ -48,29 +226,29 @@ skinparam defaultTextAlignment center
 skinparam wrapWidth 200
 skinparam maxMessageSize 150
 
-skinparam LegendBorderColor transparent
-skinparam LegendBackgroundColor transparent
 skinparam LegendFontColor #FFFFFF
+skinparam LegendBackgroundColor transparent
+skinparam LegendBorderColor transparent
 
-skinparam shadowing<<legendArea>> false
 skinparam rectangle<<legendArea>> {
-    backgroundcolor #00000000
-    bordercolor #00000000
+    backgroundcolor transparent
+    bordercolor transparent
 }
 
 skinparam rectangle {
     StereotypeFontSize 12
-    shadowing false
 }
 
 skinparam database {
     StereotypeFontSize 12
-    shadowing false
 }
 
 skinparam queue {
     StereotypeFontSize 12
-    shadowing false
+}
+
+skinparam participant {
+    StereotypeFontSize 12
 }
 
 skinparam arrow {
@@ -81,17 +259,14 @@ skinparam arrow {
 
 skinparam person {
     StereotypeFontSize 12
-    shadowing false
 }
 
 skinparam actor {
     StereotypeFontSize 12
-    shadowing false
     style awesome
 }
 
 skinparam rectangle<<boundary>> {
-    Shadowing false
     StereotypeFontSize 6
     StereotypeFontColor transparent
     BorderStyle dashed
@@ -193,119 +368,208 @@ skinparam package {
 
 
 
+
+    
 skinparam rectangle<<boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam database<<boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam queue<<boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam person<<boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam actor<<boundary>> {
     FontColor transparent
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
+}
+skinparam participant<<boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam sequencebox<<boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
 }
 skinparam package<<boundary>>StereotypeFontColor transparent
 skinparam rectangle<<boundary>>StereotypeFontColor transparent
 
+    
 skinparam rectangle<<enterprise_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam database<<enterprise_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam queue<<enterprise_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam person<<enterprise_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam actor<<enterprise_boundary>> {
     FontColor transparent
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
+}
+skinparam participant<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam sequencebox<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
 }
 skinparam package<<enterprise_boundary>>StereotypeFontColor transparent
 skinparam rectangle<<enterprise_boundary>>StereotypeFontColor transparent
 
 
+    
 skinparam rectangle<<system_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam database<<system_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam queue<<system_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam person<<system_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam actor<<system_boundary>> {
     FontColor transparent
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
+}
+skinparam participant<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam sequencebox<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
 }
 skinparam package<<system_boundary>>StereotypeFontColor transparent
 skinparam rectangle<<system_boundary>>StereotypeFontColor transparent
 
 
+    
 skinparam rectangle<<container_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam database<<container_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam queue<<container_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam person<<container_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam actor<<container_boundary>> {
     FontColor transparent
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
+}
+skinparam participant<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam sequencebox<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
 }
 skinparam package<<container_boundary>>StereotypeFontColor transparent
 skinparam rectangle<<container_boundary>>StereotypeFontColor transparent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -367,6 +631,19 @@ skinparam actor<<person>> {
     BackgroundColor #08427B
     BorderColor #073B6F
 }
+skinparam participant<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam sequencebox<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
 
 skinparam rectangle<<external_person>> {
     StereotypeFontColor #FFFFFF
@@ -398,6 +675,19 @@ skinparam actor<<external_person>> {
     BackgroundColor #686868
     BorderColor #8A8A8A
 }
+skinparam participant<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam sequencebox<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
 
 skinparam rectangle<<system>> {
     StereotypeFontColor #FFFFFF
@@ -429,6 +719,19 @@ skinparam actor<<system>> {
     BackgroundColor #1168BD
     BorderColor #3C7FC0
 }
+skinparam participant<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam sequencebox<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
 
 skinparam rectangle<<external_system>> {
     StereotypeFontColor #FFFFFF
@@ -460,64 +763,112 @@ skinparam actor<<external_system>> {
     BackgroundColor #999999
     BorderColor #8A8A8A
 }
+skinparam participant<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam sequencebox<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
 
 
-skinparam rectangle<<enterprise_boundary>> {
-    FontColor #444444
-    BackgroundColor transparent
-    BorderColor #444444
-}
-skinparam database<<enterprise_boundary>> {
-    FontColor #444444
-    BackgroundColor transparent
-    BorderColor #444444
-}
-skinparam queue<<enterprise_boundary>> {
-    FontColor #444444
-    BackgroundColor transparent
-    BorderColor #444444
-}
-skinparam person<<enterprise_boundary>> {
-    FontColor #444444
-    BackgroundColor transparent
-    BorderColor #444444
-}
-skinparam actor<<enterprise_boundary>> {
-    FontColor transparent
-    BackgroundColor transparent
-    BorderColor #444444
-}
-skinparam package<<enterprise_boundary>>StereotypeFontColor transparent
-skinparam rectangle<<enterprise_boundary>>StereotypeFontColor transparent
-
-
+    
 skinparam rectangle<<system_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam database<<system_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam queue<<system_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam person<<system_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam actor<<system_boundary>> {
     FontColor transparent
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
+}
+skinparam participant<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam sequencebox<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
 }
 skinparam package<<system_boundary>>StereotypeFontColor transparent
 skinparam rectangle<<system_boundary>>StereotypeFontColor transparent
+
+
+    
+skinparam rectangle<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam database<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam queue<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam person<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam actor<<enterprise_boundary>> {
+    FontColor transparent
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam participant<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam sequencebox<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam package<<enterprise_boundary>>StereotypeFontColor transparent
+skinparam rectangle<<enterprise_boundary>>StereotypeFontColor transparent
 
 
 
@@ -731,6 +1082,7 @@ sprite $robot2 [48x48/16] {
 
 
 
+
 skinparam rectangle<<person>> {
     StereotypeFontColor #FFFFFF
     FontColor #FFFFFF
@@ -761,6 +1113,19 @@ skinparam actor<<person>> {
     BackgroundColor #08427B
     BorderColor #073B6F
 }
+skinparam participant<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam sequencebox<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
 
 
 skinparam rectangle<<external_person>> {
@@ -793,6 +1158,20 @@ skinparam actor<<external_person>> {
     BackgroundColor #686868
     BorderColor #8A8A8A
 }
+skinparam participant<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam sequencebox<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+
 
 
 
@@ -848,6 +1227,19 @@ skinparam actor<<container>> {
     BackgroundColor #438DD5
     BorderColor #3C7FC0
 }
+skinparam participant<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam sequencebox<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
 
 skinparam rectangle<<external_container>> {
     StereotypeFontColor #FFFFFF
@@ -879,32 +1271,62 @@ skinparam actor<<external_container>> {
     BackgroundColor #B3B3B3
     BorderColor #A6A6A6
 }
+skinparam participant<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam sequencebox<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
 
 
+    
 skinparam rectangle<<container_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam database<<container_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam queue<<container_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam person<<container_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam actor<<container_boundary>> {
     FontColor transparent
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
+}
+skinparam participant<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam sequencebox<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
 }
 skinparam package<<container_boundary>>StereotypeFontColor transparent
 skinparam rectangle<<container_boundary>>StereotypeFontColor transparent
@@ -926,17 +1348,18 @@ skinparam rectangle<<container_boundary>>StereotypeFontColor transparent
 
 
 
+rectangle "<$person>\n== User\n== <U+00A0>" <<person>> as user 
+rectangle "<$person>\n== API \n== Client" <<person>> as api_client 
 
-
-rectangle "<$person>\n== User" <<person>> as user 
   rectangle "== TempoGeoPoliticalMap System\n<size:12>[System]</size>" <<system_boundary>><<boundary>> as tgpmSystem {
-    rectangle "== Single Page Application\n//<size:12>[React-Redux]</size>//\n\nWeb UI Application to view WikiData." <<container>> as spa 
-    rectangle "== Middleware\n//<size:12>[Python-Flask]</size>//\n\nREST API Wrapper to get WikiData." <<container>> as webapp 
+      rectangle "== Single Page Application\n//<size:12>[React-Redux]</size>//\n\nWeb UI Application to view WikiData." <<container>> as spa
+      rectangle "== Middleware\n//<size:12>[Python-Flask]</size>//\n\nREST API Wrapper to get WikiData." <<container>> as webapp
     spa - ->> webapp : **Get Data**\n//<size:12>[REST/HTTPS]</size>//
 }
-rectangle "== WikiData System\n\nIt is a common source of open data that Wikimedia projects, and anyone else, can use under the CC0 public domain license." <<external_system>> as wikidata 
+  rectangle "== WikiData System\n\nIt is a common source of open data that Wikimedia projects, and anyone else, can use under the CC0 public domain license." <<external_system>> as wikidata
 
 user - ->> spa : **View Data**\n//<size:12>[HTTPS]</size>//
+api_client - ->> webapp : **Get Data**\n//<size:12>[REST/HTTPS]</size>//
 webapp - ->> wikidata : **Get Data**\n//<size:12>[HTTPS]</size>//
 @enduml
 

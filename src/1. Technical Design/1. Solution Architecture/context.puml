@@ -3,10 +3,13 @@
 
 'LAYOUT_WITH_LEGEND()
 
-Person(user, "User", "")
+Person(user, "User\n", "")
+Person(api_client, "API \nClient", "")
+
 System(tgpmSystem, "TempoGeoPoliticalMap System", "UI and API Solutions to get WikiData in the TempoGeoPoliticalMap format.")
 System_Ext(wikidata, "WikiData System", "It is a common source of open data that Wikimedia projects, and anyone else, can use under the CC0 public domain license.")
 
 Rel(user, tgpmSystem, "View Data", "HTTPS")
+Rel(api_client, tgpmSystem, "Get Data", "REST/HTTPS")
 Rel(tgpmSystem, wikidata, "Get Data", "HTTPS")
 @enduml

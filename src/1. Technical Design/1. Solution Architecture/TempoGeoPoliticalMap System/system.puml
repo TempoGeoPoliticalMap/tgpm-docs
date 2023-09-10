@@ -2,8 +2,9 @@
 !include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
 
 
+Person(user, "User\n", "")
+Person(api_client, "API \nClient", "")
 
-Person(user, "User", "")
 System_Boundary(tgpmSystem, "TempoGeoPoliticalMap System"){
     Container(spa, "Single Page Application", "React-Redux", "Web UI Application to view WikiData.")
     Container(webapp, "Middleware", "Python-Flask", "REST API Wrapper to get WikiData.")
@@ -12,5 +13,6 @@ System_Boundary(tgpmSystem, "TempoGeoPoliticalMap System"){
 System_Ext(wikidata, "WikiData System", "It is a common source of open data that Wikimedia projects, and anyone else, can use under the CC0 public domain license.")
 
 Rel(user, spa, "View Data", "HTTPS")
+Rel(api_client, webapp, "Get Data", "REST/HTTPS")
 Rel(webapp, wikidata, "Get Data", "HTTPS")
 @enduml
