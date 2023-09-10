@@ -1,23 +1,163 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="607px" preserveAspectRatio="none" style="width:225px;height:607px;background:#FFFFFF;" version="1.1" viewBox="0 0 225 607" width="225px" zoomAndPan="magnify"><defs/><g><!--MD5=[8fc3522a43f8c7199df5e09e5bb0188e]
-entity user--><g id="elem_user"><rect fill="#08427B" height="103.332" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="82" x="72" y="7"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="62" x="82" y="30.5352">«person»</text><image height="48" width="48" x="89" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="33.4883"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="37" x="94.5" y="96.957">User</text></g><!--MD5=[7866ac85910050ea14261465d7b6a7f9]
-entity tgpmSystem--><g id="elem_tgpmSystem"><rect fill="#1168BD" height="156.6172" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="212" x="7" y="200"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="61" x="82.5" y="223.5352">«system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="187" x="17" y="241.957">TempoGeoPoliticalMap</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="58" x="84" y="260.8008">System</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="111" y="277.7109"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="182" x="20" y="294.1992">UI and API Solutions to get</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="60" y="310.6875">WikiData in the</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="32.5" y="327.1758">TempoGeoPoliticalMap</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="88" y="343.6641">format.</text></g><!--MD5=[d1ed0d2940ccad314a24ccbc4df5340e]
-entity wikidata--><g id="elem_wikidata"><rect fill="#999999" height="154.2617" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="202" x="12" y="447"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="125" x="50.5" y="470.5352">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="134" x="46" y="488.957">WikiData System</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="111" y="505.8672"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="168" x="27" y="522.3555">It is a common source of</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="24" y="538.8438">open data that Wikimedia</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="22" y="555.332">projects, and anyone else,</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="156" x="33" y="571.8203">can use under the CC0</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153" x="36.5" y="588.3086">public domain license.</text></g><!--MD5=[b5415e39203f7f824318c9a7b1232b5a]
-link user to tgpmSystem--><g id="link_user_tgpmSystem"><path d="M113,110.34 C113,134.08 113,163.04 113,190.14 " fill="none" id="user-to-tgpmSystem" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="113,198.12,116,190.12,110,190.12,113,198.12" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="62" x="114" y="152.6016">View Data</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="46" x="122" y="166.7344">[HTTPS]</text></g><!--MD5=[7a89f68d302d4725405f21ead73ccb1d]
-link tgpmSystem to wikidata--><g id="link_tgpmSystem_wikidata"><path d="M113,357.21 C113,382.75 113,411.27 113,437.36 " fill="none" id="tgpmSystem-to-wikidata" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="113,445.34,116,437.34,110,437.34,113,445.34" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="54" x="114" y="399.6016">Get Data</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="46" x="118" y="413.7344">[HTTPS]</text></g><!--MD5=[84faf842fa6ce3e50f1e6e1be3e02247]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentStyleType="text/css"
+     height="626px" preserveAspectRatio="none" style="width:237px;height:626px;background:#FFFFFF;" version="1.1"
+     viewBox="0 0 237 626" width="237px" zoomAndPan="magnify">
+    <defs/>
+    <g><!--MD5=[8fc3522a43f8c7199df5e09e5bb0188e]
+entity user-->
+        <g id="elem_user">
+            <rect fill="#08427B" height="122.1758" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="82"
+                  x="14" y="7"/>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="62" x="24" y="30.5352">«person»
+            </text>
+            <image height="48" width="48" x="31"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII="
+                   y="33.4883"/>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing"
+                  textLength="37" x="36.5" y="96.957">User
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing"
+                  textLength="5" x="52.5" y="115.8008"> 
+            </text>
+        </g><!--MD5=[6be96040792a0cd556c535244c12ec70]
+entity api_client-->
+        <g id="elem_api_client">
+            <rect fill="#08427B" height="122.1758" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="82"
+                  x="131" y="7"/>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="62" x="141" y="30.5352">«person»
+            </text>
+            <image height="48" width="48" x="148"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII="
+                   y="33.4883"/>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing"
+                  textLength="27" x="158.5" y="96.957">API
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing"
+                  textLength="47" x="148.5" y="115.8008">Client
+            </text>
+        </g><!--MD5=[7866ac85910050ea14261465d7b6a7f9]
+entity tgpmSystem-->
+        <g id="elem_tgpmSystem">
+            <rect fill="#1168BD" height="156.6172" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;"
+                  width="212" x="7" y="219"/>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="61" x="82.5" y="242.5352">«system»
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing"
+                  textLength="187" x="17" y="260.957">TempoGeoPoliticalMap
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing"
+                  textLength="58" x="84" y="279.8008">System
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="111"
+                  y="296.7109"> 
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="182" x="20"
+                  y="313.1992">UI and API Solutions to get
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="60"
+                  y="329.6875">WikiData in the
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157"
+                  x="32.5" y="346.1758">TempoGeoPoliticalMap
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="88"
+                  y="362.6641">format.
+            </text>
+        </g><!--MD5=[d1ed0d2940ccad314a24ccbc4df5340e]
+entity wikidata-->
+        <g id="elem_wikidata">
+            <rect fill="#999999" height="154.2617" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;"
+                  width="202" x="12" y="466"/>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="125" x="50.5" y="489.5352">«external_system»
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing"
+                  textLength="134" x="46" y="507.957">WikiData System
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="111"
+                  y="524.8672"> 
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="168" x="27"
+                  y="541.3555">It is a common source of
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="24"
+                  y="557.8438">open data that Wikimedia
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="22"
+                  y="574.332">projects, and anyone else,
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="156" x="33"
+                  y="590.8203">can use under the CC0
+            </text>
+            <text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153"
+                  x="36.5" y="607.3086">public domain license.
+            </text>
+        </g><!--MD5=[b5415e39203f7f824318c9a7b1232b5a]
+link user to tgpmSystem-->
+        <g id="link_user_tgpmSystem">
+            <path d="M56.07,129.48 C57.46,148.73 60.11,169.97 65,189 C66.77,195.89 68.95,202.89 71.39,209.85 "
+                  fill="none" id="user-to-tgpmSystem" style="stroke:#666666;stroke-width:1.0;"/>
+            <polygon fill="#666666" points="74.08,217.21,74.155,208.6663,68.5188,210.7237,74.08,217.21"
+                     style="stroke:#666666;stroke-width:1.0;"/>
+            <text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing"
+                  textLength="62" x="66" y="171.6016">View Data
+            </text>
+            <text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing"
+                  textLength="46" x="74" y="185.7344">[HTTPS]
+            </text>
+        </g><!--MD5=[162b04bdd684306d845c84e49c6fc7eb]
+link api_client to tgpmSystem-->
+        <g id="link_api_client_tgpmSystem">
+            <path d="M156.34,129.37 C149.96,153.97 142.47,182.88 135.52,209.67 " fill="none"
+                  id="api_client-to-tgpmSystem" style="stroke:#666666;stroke-width:1.0;"/>
+            <polygon fill="#666666" points="133.57,217.2,138.4875,210.213,132.6808,208.7024,133.57,217.2"
+                     style="stroke:#666666;stroke-width:1.0;"/>
+            <text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing"
+                  textLength="54" x="161.5" y="171.6016">Get Data
+            </text>
+            <text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing"
+                  textLength="81" x="148" y="185.7344">[REST/HTTPS]
+            </text>
+        </g><!--MD5=[7a89f68d302d4725405f21ead73ccb1d]
+link tgpmSystem to wikidata-->
+        <g id="link_tgpmSystem_wikidata">
+            <path d="M113,376.21 C113,401.75 113,430.27 113,456.36 " fill="none" id="tgpmSystem-to-wikidata"
+                  style="stroke:#666666;stroke-width:1.0;"/>
+            <polygon fill="#666666" points="113,464.34,116,456.34,110,456.34,113,464.34"
+                     style="stroke:#666666;stroke-width:1.0;"/>
+            <text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing"
+                  textLength="54" x="114" y="418.6016">Get Data
+            </text>
+            <text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing"
+                  textLength="46" x="118" y="432.7344">[HTTPS]
+            </text>
+        </g><!--MD5=[801e9befd0c4f35a12d4c2fc435bd338]
 @startuml C4_Elements
 !include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
 
 'LAYOUT_WITH_LEGEND()
 
-Person(user, "User", "")
+Person(user, "User\n", "")
+Person(api_client, "API \nClient", "")
+
 System(tgpmSystem, "TempoGeoPoliticalMap System", "UI and API Solutions to get WikiData in the TempoGeoPoliticalMap format.")
 System_Ext(wikidata, "WikiData System", "It is a common source of open data that Wikimedia projects, and anyone else, can use under the CC0 public domain license.")
 
 Rel(user, tgpmSystem, "View Data", "HTTPS")
+Rel(api_client, tgpmSystem, "Get Data", "REST/HTTPS")
 Rel(tgpmSystem, wikidata, "Get Data", "HTTPS")
 @enduml
 
 @startuml C4_Elements
+
+
+
+
+
+
 
 
 
@@ -41,29 +181,29 @@ skinparam defaultTextAlignment center
 skinparam wrapWidth 200
 skinparam maxMessageSize 150
 
-skinparam LegendBorderColor transparent
-skinparam LegendBackgroundColor transparent
 skinparam LegendFontColor #FFFFFF
+skinparam LegendBackgroundColor transparent
+skinparam LegendBorderColor transparent
 
-skinparam shadowing<<legendArea>> false
 skinparam rectangle<<legendArea>> {
-    backgroundcolor #00000000
-    bordercolor #00000000
+    backgroundcolor transparent
+    bordercolor transparent
 }
 
 skinparam rectangle {
     StereotypeFontSize 12
-    shadowing false
 }
 
 skinparam database {
     StereotypeFontSize 12
-    shadowing false
 }
 
 skinparam queue {
     StereotypeFontSize 12
-    shadowing false
+}
+
+skinparam participant {
+    StereotypeFontSize 12
 }
 
 skinparam arrow {
@@ -74,17 +214,14 @@ skinparam arrow {
 
 skinparam person {
     StereotypeFontSize 12
-    shadowing false
 }
 
 skinparam actor {
     StereotypeFontSize 12
-    shadowing false
     style awesome
 }
 
 skinparam rectangle<<boundary>> {
-    Shadowing false
     StereotypeFontSize 6
     StereotypeFontColor transparent
     BorderStyle dashed
@@ -186,119 +323,208 @@ skinparam package {
 
 
 
+
+    
 skinparam rectangle<<boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam database<<boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam queue<<boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam person<<boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam actor<<boundary>> {
     FontColor transparent
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
+}
+skinparam participant<<boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam sequencebox<<boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
 }
 skinparam package<<boundary>>StereotypeFontColor transparent
 skinparam rectangle<<boundary>>StereotypeFontColor transparent
 
+    
 skinparam rectangle<<enterprise_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam database<<enterprise_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam queue<<enterprise_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam person<<enterprise_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam actor<<enterprise_boundary>> {
     FontColor transparent
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
+}
+skinparam participant<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam sequencebox<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
 }
 skinparam package<<enterprise_boundary>>StereotypeFontColor transparent
 skinparam rectangle<<enterprise_boundary>>StereotypeFontColor transparent
 
 
+    
 skinparam rectangle<<system_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam database<<system_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam queue<<system_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam person<<system_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam actor<<system_boundary>> {
     FontColor transparent
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
+}
+skinparam participant<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam sequencebox<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
 }
 skinparam package<<system_boundary>>StereotypeFontColor transparent
 skinparam rectangle<<system_boundary>>StereotypeFontColor transparent
 
 
+    
 skinparam rectangle<<container_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam database<<container_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam queue<<container_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam person<<container_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam actor<<container_boundary>> {
     FontColor transparent
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
+}
+skinparam participant<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam sequencebox<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
 }
 skinparam package<<container_boundary>>StereotypeFontColor transparent
 skinparam rectangle<<container_boundary>>StereotypeFontColor transparent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -360,6 +586,19 @@ skinparam actor<<person>> {
     BackgroundColor #08427B
     BorderColor #073B6F
 }
+skinparam participant<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam sequencebox<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
 
 skinparam rectangle<<external_person>> {
     StereotypeFontColor #FFFFFF
@@ -391,6 +630,19 @@ skinparam actor<<external_person>> {
     BackgroundColor #686868
     BorderColor #8A8A8A
 }
+skinparam participant<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam sequencebox<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
 
 skinparam rectangle<<system>> {
     StereotypeFontColor #FFFFFF
@@ -422,6 +674,19 @@ skinparam actor<<system>> {
     BackgroundColor #1168BD
     BorderColor #3C7FC0
 }
+skinparam participant<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam sequencebox<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
 
 skinparam rectangle<<external_system>> {
     StereotypeFontColor #FFFFFF
@@ -453,64 +718,112 @@ skinparam actor<<external_system>> {
     BackgroundColor #999999
     BorderColor #8A8A8A
 }
+skinparam participant<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam sequencebox<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
 
 
-skinparam rectangle<<enterprise_boundary>> {
-    FontColor #444444
-    BackgroundColor transparent
-    BorderColor #444444
-}
-skinparam database<<enterprise_boundary>> {
-    FontColor #444444
-    BackgroundColor transparent
-    BorderColor #444444
-}
-skinparam queue<<enterprise_boundary>> {
-    FontColor #444444
-    BackgroundColor transparent
-    BorderColor #444444
-}
-skinparam person<<enterprise_boundary>> {
-    FontColor #444444
-    BackgroundColor transparent
-    BorderColor #444444
-}
-skinparam actor<<enterprise_boundary>> {
-    FontColor transparent
-    BackgroundColor transparent
-    BorderColor #444444
-}
-skinparam package<<enterprise_boundary>>StereotypeFontColor transparent
-skinparam rectangle<<enterprise_boundary>>StereotypeFontColor transparent
-
-
+    
 skinparam rectangle<<system_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam database<<system_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam queue<<system_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam person<<system_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam actor<<system_boundary>> {
     FontColor transparent
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
+}
+skinparam participant<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam sequencebox<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
 }
 skinparam package<<system_boundary>>StereotypeFontColor transparent
 skinparam rectangle<<system_boundary>>StereotypeFontColor transparent
+
+
+    
+skinparam rectangle<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam database<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam queue<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam person<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam actor<<enterprise_boundary>> {
+    FontColor transparent
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam participant<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam sequencebox<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam package<<enterprise_boundary>>StereotypeFontColor transparent
+skinparam rectangle<<enterprise_boundary>>StereotypeFontColor transparent
 
 
 
@@ -724,6 +1037,7 @@ sprite $robot2 [48x48/16] {
 
 
 
+
 skinparam rectangle<<person>> {
     StereotypeFontColor #FFFFFF
     FontColor #FFFFFF
@@ -754,6 +1068,19 @@ skinparam actor<<person>> {
     BackgroundColor #08427B
     BorderColor #073B6F
 }
+skinparam participant<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam sequencebox<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
 
 
 skinparam rectangle<<external_person>> {
@@ -786,6 +1113,20 @@ skinparam actor<<external_person>> {
     BackgroundColor #686868
     BorderColor #8A8A8A
 }
+skinparam participant<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam sequencebox<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+
 
 
 
@@ -841,6 +1182,19 @@ skinparam actor<<container>> {
     BackgroundColor #438DD5
     BorderColor #3C7FC0
 }
+skinparam participant<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam sequencebox<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
 
 skinparam rectangle<<external_container>> {
     StereotypeFontColor #FFFFFF
@@ -872,32 +1226,62 @@ skinparam actor<<external_container>> {
     BackgroundColor #B3B3B3
     BorderColor #A6A6A6
 }
+skinparam participant<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam sequencebox<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
 
 
+    
 skinparam rectangle<<container_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam database<<container_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam queue<<container_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam person<<container_boundary>> {
     FontColor #444444
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
 }
 skinparam actor<<container_boundary>> {
     FontColor transparent
     BackgroundColor transparent
     BorderColor #444444
+    BorderStyle dashed
+}
+skinparam participant<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
+}
+skinparam sequencebox<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+    BorderStyle dashed
 }
 skinparam package<<container_boundary>>StereotypeFontColor transparent
 skinparam rectangle<<container_boundary>>StereotypeFontColor transparent
@@ -919,12 +1303,14 @@ skinparam rectangle<<container_boundary>>StereotypeFontColor transparent
 
 
 
+rectangle "<$person>\n== User\n== <U+00A0>" <<person>> as user 
+rectangle "<$person>\n== API \n== Client" <<person>> as api_client 
 
-rectangle "<$person>\n== User" <<person>> as user 
-rectangle "== TempoGeoPoliticalMap System\n\nUI and API Solutions to get WikiData in the TempoGeoPoliticalMap format." <<system>> as tgpmSystem 
-rectangle "== WikiData System\n\nIt is a common source of open data that Wikimedia projects, and anyone else, can use under the CC0 public domain license." <<external_system>> as wikidata 
+  rectangle "== TempoGeoPoliticalMap System\n\nUI and API Solutions to get WikiData in the TempoGeoPoliticalMap format." <<system>> as tgpmSystem
+  rectangle "== WikiData System\n\nIt is a common source of open data that Wikimedia projects, and anyone else, can use under the CC0 public domain license." <<external_system>> as wikidata
 
 user - ->> tgpmSystem : **View Data**\n//<size:12>[HTTPS]</size>//
+api_client - ->> tgpmSystem : **Get Data**\n//<size:12>[REST/HTTPS]</size>//
 tgpmSystem - ->> wikidata : **Get Data**\n//<size:12>[HTTPS]</size>//
 @enduml
 

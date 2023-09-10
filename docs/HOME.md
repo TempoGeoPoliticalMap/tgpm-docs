@@ -16,18 +16,14 @@ additional value.
 
 ## URLs
 
-* **Web**:
-  * https://tgpm-react-app.azurewebsites.net/ ([^1])
-  * https://tempogeopoliticalmap.org (not available yet)
-  * https://tgpm.world (not available yet)
-* **API**:
-  * https://tgpm-backend-py-flask.azurewebsites.net/ ([^1])
-  * https://api.tempogeopoliticalmap.org (not available yet)
-  * https://api.tgpm.world (not available yet)
-* **Repository**:
-  * https://github.com/TempoGeoPoliticalMap
+* **Web**([^1]): https://tgpm.world
+* **API**([^1]): https://api.tgpm.world
+* **Documentation**: https://docs.tgpm.world
+* **Repository**: https://github.com/TempoGeoPoliticalMap
+* **Development**: https://github.com/orgs/TempoGeoPoliticalMap/projects/1
 
-[^1] _As the free service is currently used for deployments, the 'cold' start-up may sometimes take up to 2 minutes._
+[^1] _As the cheapest service is currently used for deployments, the 'cold' start-up may sometimes take up to 2
+minutes._
 
 ## Latest Release
 
@@ -36,11 +32,16 @@ Diagram [below](#solution-architecture))
 
 ![Latest Release Screenshot.png](latest-release-screenshot.png)
 
-## Next Release
+## Next Target Release
 
-![Planned Release Screenshot.png](planned-release-screenshot.png)
+![Planned Release v1.png](tgpm-target-version-1.jpg)
 
 _**Note**: Examples of Future events: Planned Elections, Effective Date of signed Laws and Agreements, etc._
+
+### Contribution to the next Release
+
+If you want to contribute to the Project, see the Dev Board and choose a task
+at https://github.com/orgs/TempoGeoPoliticalMap/projects/1
 
 ## Solution Architecture
 

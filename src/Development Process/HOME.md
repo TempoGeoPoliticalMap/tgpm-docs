@@ -1,5 +1,3 @@
-# Development Process
-
 ## Overview
 
 There are four components:
